@@ -7,15 +7,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:596345237666:android:6cb898c69a6d7db9a027fb",
+        "mobilesdk_app_id": "unknown_id",
         "android_client_info": {
-          "package_name": "io.ssafy.mogeun"
+          "package_name": "package.mogun"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAZW4WPci-cUyPIX9MczgjCnDIZJniavuU"
+          "current_key": "unknown_key"
         }
       ],
       "services": {

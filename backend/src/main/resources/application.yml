@@ -3,9 +3,9 @@ spring:
     pathmatch:
       matching-strategy: ant_path_matcher
   datasource:
-    url: jdbc:mysql://k9c104.p.ssafy.io:3306/muscle
+    url: jdbc:mysql://server_url
     username: muscleMan
-    password: 175863
+    password: unknown
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database: mysql
@@ -20,5 +20,5 @@ spring:
         format_sql: true
 
   redis:
-    host: k9c104.p.ssafy.io
-    port: 6379
+    host: host_url
+    port: host_port
